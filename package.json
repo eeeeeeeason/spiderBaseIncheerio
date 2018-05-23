@@ -1,0 +1,19 @@
+{
+  "name": "mongoservers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "servers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.3",
+    "mockjs": "^1.0.1-beta3"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "mongodb": "^3.1.0-beta4"
+  }
+}
